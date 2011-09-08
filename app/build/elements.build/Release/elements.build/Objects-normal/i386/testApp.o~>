@@ -1,0 +1,2 @@
+/Users/bert/Projects/OpenFrameworks/apps/elements/app/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Users/bert/Projects/OpenFrameworks/apps/elements/app/src/testApp.cpp:8: error: 'COLORIZE' was not declared in this scope

@@ -1,0 +1,10 @@
+01b043de56a00ae5b520f2342e880935 9b3601393faadcbb69751bbdb0befdc6 ffffffffffffffffffffffffffffffff 102 /Users/bert/Projects/OpenFrameworks/apps/elements/app/bin/elements.app
+2699f9ce6ee39f88a1e2da02b87b576b a81a3ff1aeaf74bcf578c30ea86c721f ffffffffffffffffffffffffffffffff 3599580 /Users/bert/Projects/OpenFrameworks/apps/elements/app/bin/elements.app/Contents/MacOS/elements
+2f62fc62471be445f10bdf9a5535b3a7 c99745613a7eb0a7bc23271b36336fc8 ffffffffffffffffffffffffffffffff 3212 /Users/bert/Projects/OpenFrameworks/apps/elements/app/build/elements.build/Release/elements.build/Objects-normal/i386/Element.o
+2f62fc620a22b7d7f10bdf9a5534caea 8bd6bf6fe7b870f240184d56187f8ca9 ffffffffffffffffffffffffffffffff 3356 /Users/bert/Projects/OpenFrameworks/apps/elements/app/build/elements.build/Release/elements.build/Objects-normal/i386/Behavior.o
+2f62fc620a22b260f10bdf9a5534c5fa 8bbb9a5bbc8b1750f8e50435eb3035ef ffffffffffffffffffffffffffffffff 8332 /Users/bert/Projects/OpenFrameworks/apps/elements/app/build/elements.build/Release/elements.build/Objects-normal/i386/testApp.o
+2f62fc6208b05d86f10bdf9a5537ef31 ef63999b43523bd2a53cb47a7e06704b ffffffffffffffffffffffffffffffff 8896 /Users/bert/Projects/OpenFrameworks/apps/elements/app/build/elements.build/Release/elements.build/Objects-normal/i386/main.o
+000000004e65f26d00000000000000cc 8f3385e1d88913bce1baeb383e9f2c8d ffffffffffffffffffffffffffffffff 204 /Users/bert/Projects/OpenFrameworks/apps/elements/app/bin/elements.app/Contents/Frameworks/GLUT.framework
+000000004cc41ea700000000000005ff 2f62fc620bd0a5aff10bdf9a5535b5ef ffffffffffffffffffffffffffffffff 39364400 /var/folders/q9/q9kitjrRFoKfzEbJvLCFNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cnaprjvtlgijitduskvbpfmpkgaa/Carbon.h.gch
+00000000000000000000000000000000 934d25b4dff2db9cde74e798aa975d52 ffffffffffffffffffffffffffffffff 8 /Users/bert/Projects/OpenFrameworks/apps/elements/app/bin/elements.app/Contents/PkgInfo
+00000000000000000000000000000000 934d25b4dff2db9cde74e798aa975d52 ffffffffffffffffffffffffffffffff 994 /Users/bert/Projects/OpenFrameworks/apps/elements/app/bin/elements.app/Contents/Info.plist
